@@ -1,0 +1,40 @@
+
+.footer {
+    margin-top: 2rem;
+}
+
+body {
+    font-family: 'Poppins', sans-serif;
+    background-color: #c7cace;
+    padding-top: 4rem; 
+}
+
+.preview-card {
+    margin-top: 2rem;
+}
+#additionalQuestions {
+    margin-top: 2rem;
+}
+
+#imageCarousel {
+    margin-top: 1rem;
+}
+
+#imageCarousel .carousel-item {
+    text-align: center;
+}
+
+#imageCarousel .carousel-item img {
+    max-width: 100%;
+    max-height: 100%;
+    object-fit: contain; 
+}
+
+/* Estilos responsivos */
+@media (max-width: 768px) {
+    .col-lg-6 {
+        flex: 0 0 100%;
+        max-width: 100%;
+    }
+}
+     
