@@ -56,7 +56,7 @@ body {
 }
 
 .register-bg {
-    background-image: url(/img/form.jpg);
+    background-image: url(img/form.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     min-height: 100vh;

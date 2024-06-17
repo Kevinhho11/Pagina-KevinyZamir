@@ -56,7 +56,7 @@ body{
     background-image: linear-gradient(
         rgba(0,0,0,0.5),
         rgba(0,0,0,0.5)
-    ), url(img/cad3.jpeg);
+    ), url(https://i.pinimg.com/originals/2b/f0/74/2bf07494207d86168d30063808b80901.jpg);
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;   
@@ -66,7 +66,7 @@ body{
     background-image: linear-gradient(
     rgba(0,0,0,0.5),
     rgba(0,0,0,0.5)
-    ), url(img/cad\ 5.jpeg);
+    ), url(img/yo1.jpeg);
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;   
@@ -76,7 +76,7 @@ body{
     background-image: linear-gradient(
     rgba(0,0,0,0.5),
     rgba(0,0,0,0.5)
-    ), url(img/cad\ 6.jpeg);
+    ), url(img/yo2.jpeg);
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;   
